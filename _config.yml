@@ -1,1 +1,114 @@
-theme: jekyll-theme-slate
+<div class="wrapper">
+  <section class="sec-intro">
+    <header role="banner">
+      <input id="nav-check" type="checkbox" />
+      <label class="fa" for="nav-check"></label>
+      <nav role="navigation">
+        <ul class="nav">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Galerie</a></li>
+          <li><a href="#">Contacte</a></li>
+        </ul>
+      </nav>
+    </header>
+    <h1>Servicii Internet</h1>
+    </div>
+  </section>
+  <section class="sec-about">
+    <div class="row-red">
+      <div class="row">
+        <h1>Prin Internet se înţelege o reţea globală, compusă din sisteme de calculatoare interconectate
+şi servicii computerizate,
+ <br />  care permite utilizatorului, indiferent de locaţia sa geografică, să
+acceseze informaţia aflată oriunde în reţea.</h1>
+        
+        <button type="button" value="Vezi mai mult" role="button">Vezi mai mult</button>
+      </div>
+    </div>
+    <div class="row-grey">
+      <div class="row">
+        <article class="col-2">
+          <h1>Servicii</h1>
+          <p>Folosind Internet-ul, clientii beneficiaza de o multitudine de servicii, dintre care mentionam:
+
+Posta Electronica (E-mail sau Electronic-mail)  - este facilitatea prin intermediul careia se pot trimite sau primi mesaje de la orice utilizator al retelei  Internet. Mesajele  pot contine numai text sau exista posibilitatea de a  atasa acestora si alte fisiere cu imagini, muzica, foi de calcul etc. </p>
+<p>Chat – reprezinta un spatiu virtual de discutii in care utilizatorii pot comunica instantaneu, iar discutiile pot fi vizibile tuturor utilizatorilor in acel moment. Posibilitatea de a participa la discutie in direct cu una sau mai multe persoane din retea.</p>
+<p>FTP (File Transfer Protocol) – serviciu utilizat in trecut pentru transferuri de date de pe un calculator pe altul. Tehnica de astazi insa face  ca programele FTP sa fie aproape inutile, deoarece in multe pagini WEB exista link-uri (legaturi) pentru descarcarea (download) de programe sau date.
+E-Commerce (comert electronic) – activitati de cumparare si de vanzare  prin intermediul Internetului.</p>
+<p>Newsgroups  – serviciu de informatii cunoscut si sub denumirea de grupuri de stiri (oamenii poarta discutii pe diferite domenii de interes). Rundele de discutii se impart in teme, utilizatorul de Internet putand sa se aboneze la unul sau mai multe forumuri. Mesajele din grupul de stiri se numesc articole si apartin unor oameni cu preocupari comune (ex: integrare europeana, fonduri nerambursabile, dar si arta, cultura, gradinarit, moda etc.)</p>
+<p>www – este probabil cel mai utilizat si cel mai atractiv serviciu care permite consultarea informatiilor de pe Internet prin intermediul unui sistem urias de documente legate intre ele, numite hipertexte. Consultarea informatiilor se numeste navigare si se realizeaza cu ajutorul unor programe speciale denumite browsere.</p>
+         
+        </article>
+        <artic class="col-2">
+          <h1>
+          Termeni
+          </h1>
+          <p>World Wide Web (WWW) – multitudinea de pagini de informatie existente in Internet. Acestea sunt  scrise in format Hypertext Markup Language (HTML), un limbaj specific, utilizat pentru  scrierea paginilor pentru WWW. Acest limbaj ii permite utilizatorului sa includa in paginile de Internet texte, filme, melodii, magini grafice si legaturi intre acestea, numite hiperlegaturi sau Hyperlinks, care pot fi adresate numai secvential, adica una dupa cealalta. Fiecare din aceste pagini pot contine legaturi (Hyperlinks) cu una sau mai multe alte pagini.
+<p>Hyperlink (Link) – este un fel de usa catre o alta pagina, in felul acesta existand posibilitatea de a naviga de la un document Web la altul. Fiecare pagina este alcatuita din mai multe link-uri care pot fi formate din parti cu text, poze sau titluri. Aceste link-uri nu pot fi accesate toate odata, ci numai pe rand.</p>
+          <p>ISP (Internet Service Provider) – este cel care ofera servicii de acces la Internet.</p>
+<p>Browser – reprezinta un program cu ajutorul caruia se poate naviga prin multitudinea de pagini din Internet. Browser-ul afiseaza informatiile depozitate pe diferite calculatoare conenctate intre ele prin WWW, la reteaua Internet.</p>
+<p>URL (Uniform Resource Locator)– reprezinta adresa unei pagini in Internet. Fiecare resursa existenta pe Internet are propria ei adresa de identificare care spune serverului unde sa o gaseasca. URL poate folosi diferite protocoale cum ar fi, FTP si HTTP, despre care vorbim imediat.</p>
+<p>Un Protocol  - este un sistem de reguli si proceduri ce guverneaza comunicatia dintre doua calculatoare, asa cum o limba ajuta comunicarea intre persoane, deci o modalitate prin intermediul careia diferite calculatoare pot comunica intre ele.</p>
+          </article>
+      
+        <article class="col-2">
+          <h1>
+        Protocoale
+          </h1>    
+         
+          
+          <p>Protocoalele de aplicatii:
+FTP (File Transfer Protocol) – este un proces ce permite schimbul de fisiere intre doua calculatoare;
+            SMTP (Simple Mail Transfer Protocol) – este un protocol folosit pentru transmiterea mail-ului.</p>
+<p>Protocoale de transport:
+  TCP (Transfer Control Protocol) – protocolul standard folosit pentru comunicarea in Internet.</p>
+<p>Protocoale de retea:
+HTTP (Hypertext Transport Protocol) – este o metoda prin care paginile WWW sunt transferate prin retea;
+TCP/IP (Transsmision Control Protocol / Internet Protocol) – protocolul standard folosit pentru comunicarea in Internet.</p>
+      </div>
+    </div>
+  </section>
+  
+          <img src="http://www.andridan.md/wp-content/uploads/2017/05/internet.jpg"  />
+        
+          <p></p>
+        </article>
+      </div>
+     
+   
+  <section class="sec-gallery">
+    <div class="overlay">
+      <div class="row">
+        <h1>Galerie</h1>
+      </div>
+      <div class="row">
+        <div class="col-3">
+          <img src="https://cdn.britannica.com/18/197118-050-3405F553/Computer-Code-Binary-Internet-Password-Data-Technology.jpg"  />
+        </div>
+        <div class="col-3">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlV_byeahqsryHwVSNuHvXGwY6hdp8d43MFQ&usqp=CAU" 
+        
+        <div class="col-3">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-Abuc3SLiSUJQ2A9yH2XYmHlznSaHYA9tQ&usqp=CAU" />
+        </div>
+        <div class="col-3">
+          <img src="https://www.freiheit.org/sites/default/files/styles/facebook_share/public/2022-02/2022istock-enot-poloskun.jpg?itok=elAY9Mtv"  />
+        </div>
+      </div>
+    
+    </div>
+  </section>
+  <footer>
+    <div class="row">
+      <ul class="soc-media">
+        <li><a href="#" class="fa fa-twitter"></a></li>
+        <li><a href="#" class="fa fa-facebook"></a></li>
+        <li><a href="#" class="fa fa-pinterest"></a></li>
+        <li><a href="#" class="fa fa-envelope"></a></li>
+      </ul>
+    </div>
+    <div class="row">
+      <p>&copy; Realizat de Blindar Varvara</p>
+    </div>
+  </footer>
+</div>
